@@ -23,6 +23,14 @@ A simple REST API for managing fitness classes and bookings at a fictional fitne
 
 ---
 
+### 🧪 Seeding the Database
+
+To add sample data for testing:
+
+```bash
+python seed.py
+
+
 ## 📦 Setup Instructions
 
 1. **Clone the repository:**
